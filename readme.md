@@ -1,31 +1,34 @@
-> **Note**
+> **Note**<br>
 > This project is not officially endorsed by The Insomniacs.
 
 # 🎭 About 🎭
 
-**The Theatre** is a **Minecraft Modpack** centered around the **Manic** & **Sanguine** datapacks. It features quality of life changes which can't be implemented using datapacks, like custom crafting recipes and new creative tabs, as well as accessibility features.
+**The Theatre** is a **Minecraft Fabric Modpack** centered around the **Manic** & **Sanguine** datapacks, with additions such as **Custom Origins**.
 
 > **Note**<br>
 > For any questions related to Manic & Sanguine, go to [The Insomniacs Discord Server](https://discord.gg/jsbRvexYqA).<br>
-> For any questions related to the Modpack itself, go to the [Sindercube Discord Server](https://discord.gg/dmKMAMf).
+> For any questions related to the Modpack itself, go to the [Sindercube Discord Server](https://discord.sindercu.be).
 
-# 🩸 Features 🩸
+# 📖 Features 📖
 
-- Go insane! *Or don't, i'm not your dad.*
-- Make sacrifices to ancient horrors!
-- Fight scary monsters!
-- Survive Blood Moons!
-- *The fog is coming.*
-
-> For more detailed info on the features in the pack, see the [Manic](https://modrinth.com/datapack/manic) and [Sanguine](https://modrinth.com/datapack/sanguine) Modrinth pages.
+- 👁️ Sacrifice your sanity in exchange for forgotten knowledge.
+- 🩸 Survive deadly lunar events and perform taboo magic.
+- 🎭 Change up your playstyle with higher risks for higher rewards.
 
 ## Theatre Exclusive Features
 
-- See the results of custom crafting recipes directly in your recipe viewer of choice!
-- Access all Manic and Sanguine items in the creative inventory menu!
-- Spawn all Manic and Sanguine mobs using Spawn Eggs!
-- Use Manic and Sanguine data in your [Figura](https://modrinth.com/mod/figura) scripts using the [Clothier API](clothier/readme.md)!
-- Allow players to sleep though Blood Moons using the `/function theatre:gamerules/blood_moon_sleep` command. (This feature is off by default.)
+- 🎭 Play the game as a different ruleset with custom origins.
+- 👕 Use Manic and Sanguine data in your [Figura](https://modrinth.com/mod/figura) scripts using the [Clothier API](clothier/readme.md)!
+
+# 📘 Usage 📘
+
+To play **The Theatre**, you must get [The Modrinth Launcher](https://modrinth.com/app), or any [compatible launcher](https://docs.modrinth.com/modpacks/play), then [download](https://modrinth.com/modpack/the-theatre/versions) the modpack and add it as an instance to your launcher.
+
+> Download the **Lite** version of the modpack if you don't need performance-enhancing mods and don't want to worry about any incompatibilities.
+
+To easily set up **The Theatre** on a server, download the [Packwiz Installer Bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap), place it in the same directory as your server jar file, and run the following command:
+
+`java -jar packwiz-installer-bootstrap.jar -g -s server https://the-theatre.sindercu.be/pack.toml`
 
 # 📜 Credits 📜
 

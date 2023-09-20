@@ -16,6 +16,7 @@ build () {
 
   rsync -q -av * temp/
   cp "$2.packwizignore" "temp/.packwizignore"
+  cp -r "clothier/Clothier/" "temp/datapacks/Clothier"
   #rsync -q -av .packwizignore temp/
   #rsync -q -av "$2/" temp/
 
@@ -31,7 +32,7 @@ build () {
 
   cd ..
 
-  rm -rf temp/
+  #rm -rf temp/
 
 }
 
