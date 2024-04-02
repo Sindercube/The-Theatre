@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "theatre:item/piglin_monk_spawn_egg"
-    }
-}

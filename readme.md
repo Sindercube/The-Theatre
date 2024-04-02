@@ -3,7 +3,7 @@
 
 # 🎭 About 🎭
 
-**The Theatre** is a **Minecraft Fabric Modpack** centered around the **Manic** & **Sanguine** datapacks, with additions such as **Custom Origins**.
+**The Theatre** is a **Minecraft Fabric Modpack** centered around the **Nevermore** datapacks, with additions such as **Custom Origins**.
 
 > **Note**<br>
 > For any questions related to Manic & Sanguine, go to [The Insomniacs Discord Server](https://discord.gg/jsbRvexYqA).<br>
@@ -32,7 +32,7 @@ To easily set up **The Theatre** on a server, download the [Packwiz Installer Bo
 
 # 📜 Credits 📜
 
-- Manic and Sanguine are made by [VisiVersa](https://modrinth.com/user/Visi) and [ElBones](https://www.planetminecraft.com/member/elbones/), for free, for your entertainment. If you are enjoying the modpack, go give them a big thank you in [The Insomniacs Discord Server](https://discord.gg/jsbRvexYqA).
-- The Theatre is made using [packwiz](https://packwiz.infra.link/), a really cool CLI for modpack development.
-- Thank you to [Grandpa Scout](https://github.com/GrandpaScout) for making [GSServerNet](https://github.com/GrandpaScout/GSServerNet), which made coding Clothier infinitely easier.
-- A big thank you to [Heapons](https://github.com/Heapons) for helping me with the custom datapack features of the pack.
+- The Nevermore datapacks are made by [VisiVersa](https://modrinth.com/user/Visi) and [ElBones](https://www.planetminecraft.com/member/elbones/), for free, for your entertainment. If you are enjoying the modpack, go give them a big thank you in [The Insomniacs Discord Server](https://discord.gg/jsbRvexYqA)!
+- The Theatre is made using [packwiz](https://packwiz.infra.link/), a really cool CLI for modpack development!
+- Thank you to [Grandpa Scout](https://github.com/GrandpaScout) for making [GSServerNet](https://github.com/GrandpaScout/GSServerNet), which made coding Clothier infinitely easier!
+- A big thank you to [Heapons](https://github.com/Heapons) for helping me with the custom datapack features of the pack!

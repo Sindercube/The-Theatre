@@ -1,7 +1,0 @@
-{
-	"type": "origins:self_action_when_hit",
-    "entity_action": {
-        "type": "origins:execute_command",
-        "command": "function theatre:origins/frail_mind"
-    }
-}

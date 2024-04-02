@@ -1,1 +1,91 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+metafile = true
+
+[[files]]
+file = "mods/nevermore.pw.toml"
+hash = "63a6d1f29c3b14ea18e5dd953c81e1a308fb737a075e41f264b7ec9963fbae1e"
+metafile = true
+
+[[files]]
+file = "mods/regisseur-1.0.0.jar"
+hash = "fec53a8f905a55da0bd0c276638c2340fcad8dbae18c4adcf4bc40733f960906"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "0267ae745096799820defde537adaf5fc02c54f8e865211fbcc5ccd796cd3852"
+metafile = true
+
+[[files]]
+file = "temp/.packwizignore"
+hash = "72b6cd7696c2c7f68802351c9515483bc684dc8218240d50f104093217f0fcb0"
+
+[[files]]
+file = "temp/index.toml"
+hash = "cea5d4b7ac76d2e6dd153c971fd8f0ab9321bae8783f8aa2bc1352785530f1f6"
+
+[[files]]
+file = "temp/mods/fabric-api.pw.toml"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+metafile = true
+
+[[files]]
+file = "temp/mods/ferrite-core.pw.toml"
+hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "temp/mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "temp/mods/modernfix.pw.toml"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+metafile = true
+
+[[files]]
+file = "temp/mods/nevermore.pw.toml"
+hash = "63a6d1f29c3b14ea18e5dd953c81e1a308fb737a075e41f264b7ec9963fbae1e"
+metafile = true
+
+[[files]]
+file = "temp/mods/regisseur-1.0.0.jar"
+hash = "fec53a8f905a55da0bd0c276638c2340fcad8dbae18c4adcf4bc40733f960906"
+
+[[files]]
+file = "temp/mods/sodium.pw.toml"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "temp/mods/spyglass-improvements.pw.toml"
+hash = "0267ae745096799820defde537adaf5fc02c54f8e865211fbcc5ccd796cd3852"
+metafile = true
+
+[[files]]
+file = "temp/pack.toml"
+hash = "eb3e508c64c7ec9bc45e69fa3d2f3f6cd9f7175c4bd408dcd46192acff596045"

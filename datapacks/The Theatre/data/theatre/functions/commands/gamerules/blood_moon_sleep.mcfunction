@@ -1,2 +1,0 @@
-function theatre:gamerules/blood_moon_sleep
-function theatre:commands/gamerules

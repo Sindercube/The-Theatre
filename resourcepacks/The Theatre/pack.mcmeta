@@ -1,9 +1,0 @@
-{
-    "pack": {
-        "pack_format": 15,
-        "description": [
-            { "text": "The ", "color": "#FFFF00" },
-            { "text": "Theatre", "color": "#00FFFF" }
-        ]
-    }
-}

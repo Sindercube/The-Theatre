@@ -39,38 +39,18 @@ jobs:
       - name: Build Packs
         run: |
           chmod +x packwiz
-          bash .github/workflows/build.sh ${{ github.event.release.tag_name }}
+          bash build.sh ${{ github.event.release.tag_name }}
 
       - name: Publish
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           name: "The Theatre v${{ github.event.release.tag_name }}"
           loaders: fabric
-          game-versions: 1.20.1
+          game-versions: 1.20.4
           java: 17
           files: build/the-theatre.mrpack
 
           modrinth-id: "${{ env.MODRINTH_ID }}"
-          #curseforge-id: "${{ env.CURSEFORGE_ID }}"
-
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
-          version: "${{ github.event.release.tag_name }}"
-          version-type: release
-
-      - name: Publish (Lite)
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          name: "The Theatre (Lite) v${{ github.event.release.tag_name }}"
-          loaders: fabric
-          game-versions: 1.20.1
-          java: 17
-          files: build/the-theatre-lite.mrpack
-
-          modrinth-id: "${{ env.MODRINTH_ID }}"
-          #curseforge-id: "${{ env.CURSEFORGE_ID }}"
 
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}

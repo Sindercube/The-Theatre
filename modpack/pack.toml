@@ -1,0 +1,13 @@
+name = "The Theatre"
+author = "Sindercube"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "848a96cff45b7dad37afd70a696ccb6f226ba4fbd7b45c62d58b40d49230871b"
+
+[versions]
+fabric = "0.15.9"
+minecraft = "1.20.4"

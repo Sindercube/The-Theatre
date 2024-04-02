@@ -1,1 +1,0 @@
-resourcePacks:["vanilla","fabric","file/Nevermore.zip","file/The Theatre"]
