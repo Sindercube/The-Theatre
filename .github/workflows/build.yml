@@ -8,7 +8,6 @@ concurrency:
 
 env:
   MODRINTH_ID: "1UPdBpGk"
-  CURSEFORGE_ID: "XXXXXX"
 
 jobs:
 
@@ -41,19 +40,20 @@ jobs:
           bash build.sh ${{ github.event.release.tag_name }}
 
       - name: Publish
-        uses: Kir-Antipov/mc-publish@v3.3
+        uses: Kir-Antipov/mc-publish@master
         with:
-          name: "The Theatre v${{ github.event.release.tag_name }}"
-          loaders: fabric
-          game-versions: 1.20.4
-          java: 17
-          files: build/the-theatre.mrpack
-
           modrinth-id: "${{ env.MODRINTH_ID }}"
-
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          modrinth-token: "${{ secrets.MODRINTH_TOKEN }}"
+          modrinth-version-type: "${{ steps.get-release.outputs.release-type }}"
+          github-tag: "${{ github.event.release.tag_name }}"
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
+          name: "The Theatre v${{ github.event.release.tag_name }}"
           version: "${{ github.event.release.tag_name }}"
           version-type: release
+          loaders: fabric
+          game-versions: |
+            1.20.4
+          java: 17
+          files: |
+            build/the-theatre.mrpack
