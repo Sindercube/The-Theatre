@@ -13,7 +13,7 @@
 
 - 👁️ Sacrifice your sanity in for forgotten knowledge.
 - 🩸 Survive deadly blood moons and perform taboo magic.
-- 💡 Create new gadgets for fighting or automation.
+- 💡 Create new gadgets for combat or automation.
 - 🎭 And more!
 
 ## Theatre Exclusive Features
@@ -33,4 +33,5 @@ To easily set up **The Theatre** on a server, download the [Packwiz Installer Bo
 - The Nevermore datapacks are made by [VisiVersa](https://modrinth.com/user/Visi) and [ElBones](https://www.planetminecraft.com/member/elbones/), for free, for your entertainment. If you like the content, go give them a big thank you in the [Insomniacs Discord Server](https://discord.gg/jsbRvexYqA)!
 - The Theatre is made using [packwiz](https://packwiz.infra.link/), a really cool CLI for modpack development!
 - Thank you to [Grandpa Scout](https://github.com/GrandpaScout) for making [GSServerNet](https://github.com/GrandpaScout/GSServerNet), which was used to make Clothier!
+- Thank you to [Layton](https://github.com/Lucifixion) for making [Creative Menu Tweaks](https://modrinth.com/mod/creative-menu-tweaks), which was used to add all the Nevermore creative tabs!
 - A big thank you to [Heapons](https://github.com/Heapons) for helping me with the custom datapack features of the pack!

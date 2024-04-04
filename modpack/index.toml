@@ -30,6 +30,11 @@ file = "mods/regisseur-1.0.0.jar"
 hash = "fec53a8f905a55da0bd0c276638c2340fcad8dbae18c4adcf4bc40733f960906"
 
 [[files]]
+file = "mods/regisseur.pw.toml"
+hash = "1d869c1375926551ad95f828bf9709c460ff007d5869d7a0edcd14aad418bff2"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
