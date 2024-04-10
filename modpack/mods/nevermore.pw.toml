@@ -1,13 +1,13 @@
 name = "Nevermore!"
-filename = "nevermore-0.2.0.jar"
+filename = "nevermore-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ASGfjFC9/versions/GvOgC9lO/nevermore-0.2.0.jar"
+url = "https://cdn.modrinth.com/data/ASGfjFC9/versions/Q2AuiyEy/nevermore-0.2.1.jar"
 hash-format = "sha1"
-hash = "85783ddac0344ef440540a56965f4fb209752e6f"
+hash = "1182090233f2f77e232d6fdadf9e9695b77df704"
 
 [update]
 [update.modrinth]
 mod-id = "ASGfjFC9"
-version = "GvOgC9lO"
+version = "Q2AuiyEy"

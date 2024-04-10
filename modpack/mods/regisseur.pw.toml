@@ -1,13 +1,13 @@
 name = "Regisseur"
-filename = "regisseur-1.1.01.0.0.jar"
+filename = "regisseur-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oayUQ4Im/versions/yZjZ64b6/regisseur-1.1.01.0.0.jar"
+url = "https://cdn.modrinth.com/data/oayUQ4Im/versions/2eqdwkY4/regisseur-1.2.1.jar"
 hash-format = "sha1"
-hash = "18c1ebeb9df2455d3f430a4887372192f07066ce"
+hash = "93075ede0f4742bbf235e8fd0e4baffcfc0af207"
 
 [update]
 [update.modrinth]
 mod-id = "oayUQ4Im"
-version = "yZjZ64b6"
+version = "2eqdwkY4"

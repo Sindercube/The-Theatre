@@ -26,15 +26,6 @@ jobs:
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-#      - name: Download Packwiz
-#        id: download-artifact
-#        uses: dawidd6/action-download-artifact@v2
-#        with:
-#          github_token: ${{secrets.GITHUB_TOKEN}}
-#          workflow: go.yml
-#          repo: packwiz/packwiz
-#          name: Linux 64-bit x86
-
       - name: Build Packs
         run: |
           bash build.sh ${{ github.event.release.tag_name }}

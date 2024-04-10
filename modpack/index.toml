@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/chrysalis.pw.toml"
+hash = "d8686746a4293ad05bcf33e556d95b8c1254e9c385e1adb00772384cbd9d23dd"
+metafile = true
+
+[[files]]
+file = "mods/creative-menu-tweaks.pw.toml"
+hash = "595f1b19641c8289512405bc4ad02862b78cd2a60a4161e18bb45d934d967cb1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
@@ -22,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/nevermore.pw.toml"
-hash = "63a6d1f29c3b14ea18e5dd953c81e1a308fb737a075e41f264b7ec9963fbae1e"
+hash = "deb97a7c8847a10e1c8004ebbb5f5279cabf53de8337a93316b4dca481b6ef8b"
 metafile = true
 
 [[files]]
@@ -31,7 +41,7 @@ hash = "fec53a8f905a55da0bd0c276638c2340fcad8dbae18c4adcf4bc40733f960906"
 
 [[files]]
 file = "mods/regisseur.pw.toml"
-hash = "1d869c1375926551ad95f828bf9709c460ff007d5869d7a0edcd14aad418bff2"
+hash = "2995b1d85205efef57ff0d579004da26dddbf0200cf772a198df9d39c43f1742"
 metafile = true
 
 [[files]]
